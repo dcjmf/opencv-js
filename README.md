@@ -6,6 +6,8 @@ The file `opencv.js` was downloaded from https://docs.opencv.org/4.9.0/opencv.js
 
 TypeScript is supported (thanks to `mirada`).
 
+This is a fork of [https://github.com/TechStark/opencv-js](https://github.com/TechStark/opencv-js) and was done so as the opencv.js file had a function in the original code that caused an inline-unsafe csp error to be triggered.
+
 # Code Examples
 
 - See code examples (React, Angular) in [opencv-js-examples](https://github.com/TechStark/opencv-js-examples)
